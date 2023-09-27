@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=FrontEnd+Developer;Vue+Nuxt+and+more)](https://git.io/typing-svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpudiQ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **SpudiQ/SpudiQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
